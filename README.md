@@ -1,30 +1,43 @@
-\# 🎮 GameHub
+# 🎮 Eddies GameHub
 
+Eddies GameHub is a Django web application where users can browse video games, view game details, and interact with a simple gaming catalog system.
 
+---
 
-GameHub is a Django web application for browsing video games.
+## 🚀 Features
 
+- User Registration (Signup)
+- User Login & Authentication
+- Browse Game Listings
+- View Game Details
+- Display Game Images
+- Media file handling (uploads)
 
+---
 
-\## Features
+## 🛠️ Tech Stack
 
+- Python
+- Django
+- HTML
+- CSS
+- SQLite
 
+---
 
-\- User Signup
+## 📸 Screenshots
 
-\- User Login
+### Home Page
+![Home](screenshots/home.png)
 
-\- Game Listings
+### Game Details
+![Game](screenshots/game_detail.png)
 
-\- Game Detail Pages
+---
 
-
-
-\## Run Project
-
-
+## ⚙️ Run Locally
 
 ```bash
-
+git clone https://github.com/Chauke12345/Eddies-Gamehub.git
+cd Eddies-Gamehub
 python manage.py runserver
-
