@@ -27,11 +27,11 @@ Eddies GameHub is a Django web application where users can browse video games, v
 
 ## 📸 Screenshots
 
-### Home Page
-![Home](screenshots/home.png)
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
 
-### Game Details
-![Game](screenshots/game_detail.png)
+### 🎮 Game Details
+![Game Details](screenshots/game_detail.png)
 
 ---
 
